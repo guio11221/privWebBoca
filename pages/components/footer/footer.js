@@ -15,6 +15,10 @@ const Footer = () => {
             <FiUser className="text-gray-400" />
             <span className="text-gray-400">Jucielly Gonçalves </span>
           </div>
+            <div className="flex items-center space-x-2">
+            <FiUser className="text-gray-400" />
+            <span className="text-gray-400">Adilso </span>
+          </div>
         </div>
         <div className="flex items-center space-x-4">
           <a href="#" className="text-gray-400 hover:text-white">
