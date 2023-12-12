@@ -99,6 +99,12 @@ export default function Example() {
                   <span className="ml-2 text-gray-700">Jucielly</span>
                 </a>
               </div>
+              <div className="flex items-center">
+                <a href='https://instagram.com/adilso2766/' className="flex items-center">
+                  <FiInstagram className="text-3xl text-gray-600 hover:text-gray-800" />
+                  <span className="ml-2 text-gray-700">Adilso</span>
+                </a>
+              </div>
             </div>
           </div>
     </div>
